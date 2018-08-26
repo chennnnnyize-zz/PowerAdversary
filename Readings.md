@@ -5,9 +5,9 @@
 ### System model
 
 The function is chosen to minimize a quadratic loss function:
-$$
+$
 \mathcal{L}(\mathcal{D}_{tr}, \mathsf{\theta}) = \frac{1}{n}\sum_{i = 1}^{n} (f(\mathsf{x}_i, \mathsf{\theta}) - y_i)^2 + \lambda \Omega(\mathsf{w})
-$$
+$
 
 ### Adversarial modeling
 
